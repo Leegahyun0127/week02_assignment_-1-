@@ -10,6 +10,6 @@ There will always be something that needs to be added or removed from the pictur
 And that is the short description of what visual effects are all about— adding elements to a picture that are not there,
 or removing something that you don’t want to be there
 
-[example of digital compositing](http://www.animationboss.net/wp-content/uploads/2018/03/Wonder_Women_VFX.jpg)
-
+![example of digital compositing](http://www.animationboss.net/wp-content/uploads/2018/03/Wonder_Women_VFX.jpg)
+h
 
