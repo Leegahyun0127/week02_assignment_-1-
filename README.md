@@ -1,7 +1,7 @@
 # week02_assignment_What is digital sompositing?
 week02_assignment_(1)_ B976143_이가현_ 
 
-1_What is digital compositing?
+# 1_What is digital compositing?
 
 Digital compositing is the process of digitally assembling multiple images to make a final image, 
 typically for print, motion pictures or screen display. It is the digital analogue of optical film compositing.
