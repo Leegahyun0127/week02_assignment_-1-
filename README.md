@@ -1,4 +1,4 @@
-# week02_assignment_What is digital Compositing?
+ # week02_assignment_What is digital Compositing?
 week02_assignment_
 _ B976143_이가현_ 
 
