@@ -9,3 +9,5 @@ typically for print, motion pictures or screen display. It is the digital analog
 There will always be something that needs to be added or removed from the picture to tell the story.
 And that is the short description of what visual effects are all about— adding elements to a picture that are not there,
 or removing something that you don’t want to be there
+
+
