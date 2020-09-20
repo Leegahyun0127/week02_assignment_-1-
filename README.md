@@ -190,4 +190,16 @@ RGB가 색상의 기본이 되는 이유는 : 인간 망막을 구성하는 S,M,
 ![d](https://dbscthumb-phinf.pstatic.net/2512_000_1/20130825212001742_0I4NVBM1J.jpg/i-1-17.jpg?type=w492_fst_n&wm=Y)
 
 
-
+### 출처
+>'https://booksite.elsevier.com/samplechapters/9780240817811/9780240817811.pdf'
+>https://ko.wikipedia.org/wiki/크로마_키
+>https://www.fxguide.com/fxfeatured/the-art-of-roto-2011/
+>https://ko.wikipedia.org/wiki/모션_캡처
+>https://www.shutterstock.com/ko/blog/vfx-basics-compositing-rotoscoping-mattes/
+>https://helpx.adobe.com/after-effects/using/tracking-stabilizing-motion-cs5.html
+>https://www.cartoonbrew.com/vfx/10-unforgettable-morphs-film-tv-music-videos-144036.html
+>https://terms.naver.com/entry.nhn?docId=1650267&cid=42627&categoryId=42627
+>https://nevadafilm.com/production-notes-digital-compositing/
+>https://ko.wikipedia.org/wiki/알파_채널
+>https://terms.naver.com/entry.nhn?docId=269667&cid=42641&categoryId=42641
+>https://ko.wikipedia.org/wiki/RGB
